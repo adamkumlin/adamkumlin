@@ -1,16 +1,13 @@
-### Hi there 👋
+# Welcome, traveller!
+My name is Adam and I'm very interested in web development and programming. I am currently studying web development at University and I absolutely love it.
 
-<!--
-**adamkumlin/adamkumlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interests
+- Web development and programming
+- Cooking
+- Baking
+- Working out
+- Gaming, especially more technically focused games like [Factorio](https://store.steampowered.com/app/427520/Factorio/) and [Satisfactory](https://store.steampowered.com/app/526870/Satisfactory/) but I play pretty much everything.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in touch with me
+- [kumlinadam99@gmail.com](mailto:kumlinadam99@gmail.com)
+- [Discord](https://discord.com/users/177812688120971264)
