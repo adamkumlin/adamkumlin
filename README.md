@@ -1,5 +1,5 @@
 # Welcome, traveller!
-My name is Adam and I'm very interested in web development and programming. I am currently studying web development at University and I absolutely love it.
+My name is Adam and I'm very interested in web development and programming.
 
 ## Interests
 - Web development and programming
