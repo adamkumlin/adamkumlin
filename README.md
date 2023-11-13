@@ -7,6 +7,10 @@ My name is Adam and I'm very interested in web development and programming.
 - CSS (also Tailwind CSS)
 - C#/.NET Framework
 - SQL
+  
+## Get in touch with me
+- [kumlinadam99@gmail.com](mailto:kumlinadam99@gmail.com)
+- [Discord](https://discord.com/users/177812688120971264)
 
 ## Interests
 - Web development and programming
@@ -32,7 +36,3 @@ My name is Adam and I'm very interested in web development and programming.
   - [Super Mario Odyssey](https://www.amazon.com/Super-Mario-Odyssey-Nintendo-Switch/dp/B01MUA0D2A)
   - [The Legend of Zelda: Breath of the Wild](https://www.amazon.com/Legend-Zelda-Breath-Wild-switch-Nintendo/dp/B01N1083WZ)
   - [The Legend of Zelda: Tears of the Kingdom](https://www.amazon.com/Legend-Zelda-Kingdom-Nintendo-International-Version/dp/B0BV8XX3FF/ref=sr_1_4?crid=HGYFNQEZ0OJO&keywords=tears+of+the+kingdom&qid=1699871752&sprefix=tears%2Caps%2C187&sr=8-4)
-
-## Get in touch with me
-- [kumlinadam99@gmail.com](mailto:kumlinadam99@gmail.com)
-- [Discord](https://discord.com/users/177812688120971264)
