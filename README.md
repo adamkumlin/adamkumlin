@@ -2,9 +2,9 @@
 My name is Adam and I'm very interested in web development and programming.
 
 ## Technologies
-- JavaScript/TypeScript (also React.js, Next.js)
-- HTML (also JSX)
-- CSS (also Tailwind CSS)
+- JavaScript/TypeScript *(also React.js, Next.js)*
+- HTML *(also JSX)*
+- CSS *(also Tailwind CSS)*
 - C#/.NET Framework
 - SQL
   
