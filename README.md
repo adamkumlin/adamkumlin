@@ -7,6 +7,7 @@ My name is Adam and I'm very interested in web development and programming.
 - CSS *(also Tailwind CSS)*
 - C#/.NET Framework
 - SQL
+- Java
   
 ## Get in touch with me
 - [kumlinadam99@gmail.com](mailto:kumlinadam99@gmail.com)
