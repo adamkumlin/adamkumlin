@@ -12,6 +12,7 @@ My name is Adam and I'm very interested in web development and programming.
 ## Get in touch with me
 - [kumlinadam99@gmail.com](mailto:kumlinadam99@gmail.com)
 - [Discord](https://discord.com/users/177812688120971264)
+- [LinkedIn](https://www.linkedin.com/in/adamkumlin/)
 
 ## Interests
 - Web development and programming
