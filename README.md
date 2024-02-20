@@ -1,5 +1,5 @@
 # Welcome!
-My name is Adam and I'm very interested in web development and programming.
+My name is Adam and I'm very interested in web development and programming. I'm currently studying to become a .NET-developer.
 
 ## Technologies
 - JavaScript/TypeScript *(also React, Next.js)*
