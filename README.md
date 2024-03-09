@@ -24,4 +24,6 @@ My name is Adam and I'm very interested in web development and programming.
   - [The Binding of Isaac: Rebirth](https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/)
   - [Factorio](https://store.steampowered.com/app/427520/Factorio/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamkumlin)](https://github.com/adamkumlin/github-readme-stats)
+[![Adamkumlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamkumlin)](https://github.com/adamkumlin/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamkumlin)](https://github.com/adamkumlin/github-readme-stats)
