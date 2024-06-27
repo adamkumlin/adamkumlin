@@ -3,6 +3,7 @@ My name is Adam and I'm very interested in web development and programming.
 
 ## Technologies
 - JavaScript/TypeScript *(also React, Next.js)*
+- Node.js *(also Nest.js, Express.js)*
 - HTML *(also JSX)*
 - CSS *(also Tailwind CSS)*
 - C#/.NET Framework *(also EF Core, WinForms)*
