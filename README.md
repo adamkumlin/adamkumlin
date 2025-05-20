@@ -6,8 +6,8 @@ My name is Adam and I'm very interested in web development and programming.
 - Node.js *(also Nest.js, Express.js)*
 - HTML *(also JSX)*
 - CSS *(also Tailwind CSS)*
-- C#/.NET Framework *(also EF Core, WinForms)*
-- SQL/SQL Server
+- C#/.NET Framework *(also Entity Framework, WinForms, ASP.NET)*
+- SQL/NoSQL (MSSQL, Postgres, MongoDB, DynamoDB)
 - Java
   
 ## Get in touch with me
@@ -17,8 +17,7 @@ My name is Adam and I'm very interested in web development and programming.
 
 ## Interests
 - Web development and programming
-- Cooking
-- Baking
+- Cooking and baking
 - Gaming, some of my favorites:
   - [Minecraft](https://www.minecraft.net/en-us)
   - [Terraria](https://store.steampowered.com/app/105600/Terraria/)
